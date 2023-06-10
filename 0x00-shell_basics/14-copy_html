@@ -1,5 +1,2 @@
 #!/bin/bash
-cp -n *.html#!/bin/bash
-cp -n *.html#!/bin/bash
-cp -n *.html#!/bin/bash
-cp -n *.html ..
+cp -u *.html ..
